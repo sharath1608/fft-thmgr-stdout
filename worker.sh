@@ -164,7 +164,7 @@ EOF
   fi
 
   attempt=0
-  retries=100
+  retries=180
   interval=1
 
   while [[ $attempt -lt $retries ]]; do
